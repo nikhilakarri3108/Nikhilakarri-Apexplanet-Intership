@@ -1,7 +1,8 @@
 # Report: Firewall Security Configuration using iptables
 
 **Date:** May 01, 2026  
-**Analyst:** Nikhila Karri  
+**Analyst:** KARRI NIKHILA
+
 **Objective:** To implement a secure firewall using `iptables`, apply a default block policy, allow trusted services, and automatically detect repeated scan attempts.
 
 ---
